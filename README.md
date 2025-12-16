@@ -74,3 +74,7 @@ I build scalable web & mobile applications using modern JavaScript technologies 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fiza-Azhar&show_icons=true&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiza-Azhar&layout=compact&theme=dark&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fiza-Azhar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8)
+
